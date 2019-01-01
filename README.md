@@ -1,2 +1,2 @@
 # Ramblin-s-Rover
-2D game for all platforms Windows , IOS , Android. 
+2D game for android platforms. 
